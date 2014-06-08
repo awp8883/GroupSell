@@ -1,0 +1,5 @@
+name: GroupSell
+version: 1.0
+author: DojmGubbeN
+main: me.dojmgubben.groupsell.GroupSell
+depend: [Vault]
